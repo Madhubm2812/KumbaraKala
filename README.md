@@ -1,7 +1,10 @@
+## App Screenshots
 <img width="401" height="837" alt="share png" src="https://github.com/user-attachments/assets/3d612225-5ff7-4f88-9e90-44718d9432cb" />
 <img width="388" height="821" alt="story_card png" src="https://github.com/user-attachments/assets/3c227372-757c-45ac-aaa3-20c2097a04ad" />
 <img width="392" height="835" alt="user_input png" src="https://github.com/user-attachments/assets/d9bf886f-6c1b-4f4f-a949-2f03b6f25b6a" />
 <img width="399" height="840" alt="home_screen png" src="https://github.com/user-attachments/assets/ecd494ad-9983-49e2-9046-edbfefc68568" />
+
+
 # 🏺 Kumbara-Kala (Traditional Pottery Digital Branding)
 
 **Kumbara-Kala** is a "Legacy Branding" Android application designed to help traditional artisans, specifically potters, compete in the modern market. The app allows makers to generate and share "Digital Story Cards" that highlight the health and eco-friendly benefits of using clay products.
